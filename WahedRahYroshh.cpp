@@ -16,7 +16,7 @@ int main()
       */
     cin>>x;
     cout<<endl;
-    for(i=1; i<=x; i++)//2
+    for(i=1; i<=x; i++)
     {
         cout<<i<<" " <<"ra7 yrosh ... ra7 yrosh gnena "<<endl;
         if(i>1)
